@@ -5,4 +5,4 @@ Utilizing a revival of the classic set of objects for Max, originally by Dan Tru
 //
 PeRColate updated for Max7 by Maxology  http://www.maxology.club
 Devices by Tom Hall http://tomhall.com.au
-
+//
